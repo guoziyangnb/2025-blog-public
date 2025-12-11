@@ -32,15 +32,30 @@
 		]
 	},
 	{
+		"id": "1765075531040-cdc838fe51bd4",
+		"uploadedAt": "2025-12-07T02:45:31.040Z",
+		"description": "老婆买一堆“土产品”堆家里，让我想起小时候老家，也是这样😂😂😂",
+		"images": [
+			"/images/pictures/294e9fe7cb4f263d.webp"
+		]
+	},
+	{
+		"id": "1765075688460-b78179776306b",
+		"uploadedAt": "2025-12-07T02:48:08.460Z",
+		"description": "每年 10月份后，就去柿子村🍊 去游玩，这次就买了一个串。一直挂着，开始的时候根本不能吃，现在可以吃了。但是挂着好看💕",
+		"images": [
+			"/images/pictures/d868a9d12c640607.webp"
+		]
+	},
+	{
 		"id": "1765424127609-ea3f8c71f1338",
 		"uploadedAt": "2025-12-11T03:35:27.609Z",
 		"description": "经过本网站的压缩webp的图片",
 		"images": [
-			"blob:https://blog.guoziyang.com/5cfc1877-f383-4275-908a-7b8b8981f4ce",
-			"blob:https://blog.guoziyang.com/b1acec2e-31b2-4fd2-bd95-381431a486b9",
-			"blob:https://blog.guoziyang.com/f6b9922e-7205-4886-9d2a-23592d7cdcb1",
-			"blob:https://blog.guoziyang.com/0a29b76e-1cf0-433b-995f-e6d6f240370e",
-			"blob:https://blog.guoziyang.com/54b4f310-3f95-47e4-95c1-1a96141a9ca5"
+			"/images/pictures/40aef52c109f68df.webp",
+			"/images/pictures/c4baf86d7298b1d6.webp",
+			"/images/pictures/2f5cca50915eeb01.webp",
+			"/images/pictures/b895025f62cadc17.webp"
 		]
 	},
 	{
@@ -48,7 +63,7 @@
 		"uploadedAt": "2025-12-11T03:36:09.923Z",
 		"description": "gemini的官方图标",
 		"images": [
-			"blob:https://blog.guoziyang.com/800414a3-2dd3-4f86-b47d-bf4a344d31ef"
+			"/images/pictures/21ecd15d93cc2198.png"
 		]
 	},
 	{
@@ -56,7 +71,15 @@
 		"uploadedAt": "2025-12-11T03:36:25.501Z",
 		"description": "MCP的官方logo",
 		"images": [
-			"blob:https://blog.guoziyang.com/2fd97158-f549-476c-994d-3efa28df315e"
+			"/images/pictures/0541a5e8ab002ec1.png"
+		]
+	},
+	{
+		"id": "1765424340486-0460276d0cf78",
+		"uploadedAt": "2025-12-11T03:39:00.486Z",
+		"description": "测试恶搞动图",
+		"images": [
+			"/images/pictures/84c67673993f9193.png"
 		]
 	}
 ]
