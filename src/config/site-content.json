@@ -30,21 +30,29 @@
 		{
 			"id": "a46372ff45bc5524",
 			"url": "/images/art/a46372ff45bc5524.jpg"
+		},
+		{
+			"id": "0c7dc4502a1dc0fd",
+			"url": "/images/art/0c7dc4502a1dc0fd.jpg"
 		}
 	],
-	"currentArtImageId": "a46372ff45bc5524",
+	"currentArtImageId": "0c7dc4502a1dc0fd",
 	"backgroundImages": [
 		{
 			"id": "",
 			"url": ""
+		},
+		{
+			"id": "3143b5de0a7c1c0a",
+			"url": "/images/background/3143b5de0a7c1c0a.png"
 		}
 	],
-	"currentBackgroundImageId": "",
+	"currentBackgroundImageId": "3143b5de0a7c1c0a",
 	"socialButtons": [
 		{
 			"id": "github",
 			"type": "github",
-			"value": "https://github.com/yysuni",
+			"value": "https://github.com/guoziyangnb",
 			"label": "Github",
 			"order": 3
 		},
@@ -58,15 +66,15 @@
 		{
 			"id": "email",
 			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"value": "yfzsynb@outlook.com",
 			"label": "",
 			"order": 1
 		}
 	],
 	"clockShowSeconds": false,
-	"summaryInContent": false,
+	"summaryInContent": true,
 	"isCachePem": false,
 	"hideEditButton": false,
-	"currentHatIndex": 3,
-	"hatFlipped": false
+	"currentHatIndex": 17,
+	"hatFlipped": true
 }
