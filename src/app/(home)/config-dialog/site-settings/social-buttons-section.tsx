@@ -155,6 +155,7 @@ export function SocialButtonsSection({ formData, setFormData, socialButtonImageU
 							options={[
 								{ value: 'github', label: 'Github' },
 								{ value: 'juejin', label: '掘金' },
+								{ value: 'csdn', label: 'CSDN' },
 								{ value: 'email', label: '邮箱' },
 								{ value: 'x', label: 'X' },
 								{ value: 'tg', label: 'Telegram' },
