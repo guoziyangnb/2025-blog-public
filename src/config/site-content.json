@@ -64,13 +64,6 @@
 			"order": 2
 		},
 		{
-			"id": "email",
-			"type": "email",
-			"value": "yfzsynb@outlook.com",
-			"label": "",
-			"order": 1
-		},
-		{
 			"id": "button-1765693482569",
 			"type": "qq",
 			"value": "1432024980",
