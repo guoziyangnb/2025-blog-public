@@ -47,15 +47,11 @@
 			"url": ""
 		},
 		{
-			"id": "3143b5de0a7c1c0a",
-			"url": "/images/background/3143b5de0a7c1c0a.png"
-		},
-		{
-			"id": "f41d81412f39212f",
-			"url": "/images/background/f41d81412f39212f.jpg"
+			"id": "50db5a61ca19f1ce",
+			"url": "/images/background/50db5a61ca19f1ce.webp"
 		}
 	],
-	"currentBackgroundImageId": "f41d81412f39212f",
+	"currentBackgroundImageId": "50db5a61ca19f1ce",
 	"socialButtons": [
 		{
 			"id": "github",
