@@ -3,6 +3,7 @@ import GithubSVG from '@/svgs/github.svg'
 import { ANIMATION_DELAY, CARD_SPACING } from '@/consts'
 import { useConfigStore } from './stores/config-store'
 import JuejinSVG from '@/svgs/juejin.svg'
+import CsdnSVG from '@/svgs/csdn.svg'
 import EmailSVG from '@/svgs/email.svg'
 import XSVG from '@/svgs/x.svg'
 import TgSVG from '@/svgs/tg.svg'
@@ -26,6 +27,7 @@ import { createPortal } from 'react-dom'
 type SocialButtonType =
 	| 'github'
 	| 'juejin'
+	| 'csdn'
 	| 'email'
 	| 'link'
 	| 'x'
@@ -111,6 +113,7 @@ export default function SocialButtons() {
 
 	const iconMap: Record<SocialButtonType, React.ComponentType<{ className?: string }>> = {
 		github: GithubSVG,
+		csdn: CsdnSVG,
 		juejin: JuejinSVG,
 		email: EmailSVG,
 		wechat: WechatSVG,

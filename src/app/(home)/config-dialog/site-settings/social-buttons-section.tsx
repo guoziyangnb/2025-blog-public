@@ -10,6 +10,7 @@ import { hashFileSHA256 } from '@/lib/file-utils'
 type SocialButtonType =
 	| 'github'
 	| 'juejin'
+	| 'csdn'
 	| 'email'
 	| 'link'
 	| 'x'
