@@ -58,9 +58,9 @@
 		},
 		{
 			"id": "juejin",
-			"type": "juejin",
-			"value": "https://juejin.cn/user/2427311675422382",
-			"label": "稀土掘金",
+			"type": "csdn",
+			"value": "https://blog.csdn.net/yf15996280470https://blog.csdn.net/yf15996280470",
+			"label": "CSDN",
 			"order": 2
 		},
 		{
