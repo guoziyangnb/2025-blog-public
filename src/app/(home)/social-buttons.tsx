@@ -113,8 +113,8 @@ export default function SocialButtons() {
 
 	const iconMap: Record<SocialButtonType, React.ComponentType<{ className?: string }>> = {
 		github: GithubSVG,
-		csdn: CsdnSVG,
 		juejin: JuejinSVG,
+		csdn: CsdnSVG,
 		email: EmailSVG,
 		wechat: WechatSVG,
 		x: XSVG,
