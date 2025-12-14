@@ -54,21 +54,21 @@
 			"type": "github",
 			"value": "https://github.com/guoziyangnb",
 			"label": "Github",
-			"order": 3
+			"order": 2
 		},
 		{
 			"id": "juejin",
 			"type": "csdn",
 			"value": "https://blog.csdn.net/yf15996280470",
 			"label": "CSDN",
-			"order": 2
+			"order": 1
 		},
 		{
 			"id": "button-1765693482569",
 			"type": "qq",
 			"value": "1432024980",
 			"label": "",
-			"order": 4
+			"order": 3
 		}
 	],
 	"clockShowSeconds": false,
