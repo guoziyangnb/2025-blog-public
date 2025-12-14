@@ -443,7 +443,8 @@ export default function BlogPage() {
 						</motion.div>
 					)
 				})}
-				{items.length > 0 && (
+				{/* ? 删除更多按钮 */}
+				{/* {items.length > 0 && (
 					<div className='text-center'>
 						<motion.a
 							initial={{ opacity: 0, scale: 0.6 }}
@@ -457,7 +458,7 @@ export default function BlogPage() {
 							更多
 						</motion.a>
 					</div>
-				)}
+				)} */}
 			</div>
 
 			<div className='pt-12'>
