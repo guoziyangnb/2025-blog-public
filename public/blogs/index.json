@@ -286,39 +286,6 @@
     "cover": "/blogs/pnpm-upgrade/d3d0d5fee572546d.jpg"
   },
   {
-    "slug": "ink-effect",
-    "title": "水墨效果",
-    "tags": [
-      "组件",
-      "尝试"
-    ],
-    "date": "2023-12-29",
-    "summary": "鼠标移动效果",
-    "cover": "/blogs/ink-effect/e946bc3b7be05fad.jpg"
-  },
-  {
-    "slug": "animal-animation",
-    "title": "模型动画——小恐龙",
-    "tags": [
-      "threejs",
-      "练习"
-    ],
-    "date": "2023-12-28",
-    "summary": "用 three 控制动画",
-    "cover": "/blogs/animal-animation/5da1091186765b51.png"
-  },
-  {
-    "slug": "reshow-sketchfab-watermelon",
-    "title": "重现模型——Blingbling的西瓜",
-    "tags": [
-      "threejs",
-      "尝试"
-    ],
-    "date": "2023-12-27",
-    "summary": "既然 sketchfab 能把渲染做的这么好，那我试下重现模型。",
-    "cover": "/blogs/reshow-sketchfab-watermelon/e6733c50270e96b6.jpg"
-  },
-  {
     "slug": "water-like-distortion",
     "title": "文字水波纹",
     "tags": [
@@ -427,26 +394,5 @@
     "date": "2023-06-29",
     "summary": "简单记录一下在 MDN 看到的 CSS Blog 文章",
     "cover": "/blogs/css-colors/e5a78a7492d1850d.png"
-  },
-  {
-    "slug": "ruanyifeng",
-    "title": "阮一峰见证前端历史",
-    "tags": [
-      "阮一峰"
-    ],
-    "date": "2023-06-15",
-    "summary": "阮一峰是我最喜欢的博客作者，但他本来不是一名前端开发者，而是学校教书的教授。然而，他的博客伴随着前端在国内的兴起。",
-    "cover": "/blogs/ruanyifeng/16ca1175afbdcd1b.jpg"
-  },
-  {
-    "slug": "design-patterns-react",
-    "title": "React 中的设计模式",
-    "tags": [
-      "设计模式",
-      "创建blog网站"
-    ],
-    "date": "2023-05-07",
-    "summary": "设计模式在长期的开发过程当中，会慢慢显得更加重要。掌握好这些设计模式，对日后的项目工作有很大帮助。",
-    "cover": "/blogs/design-patterns-react/836ca6119fb23330.jpg"
   }
 ]
